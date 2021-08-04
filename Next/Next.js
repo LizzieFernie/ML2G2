@@ -36,7 +36,7 @@ export default class Next extends Sprite {
   }
 
   *whenthisspriteclicked() {
-    window.location.href = "http://127.0.0.1:3000/Level3/";
+    window.location.href = "https://github.com/LizzieFernie/ML2G3";
   }
 
   *whenIReceiveResult() {
